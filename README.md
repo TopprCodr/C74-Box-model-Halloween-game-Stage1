@@ -1,2 +1,2 @@
 # Classes and Objects
-Brick class
+Pumpkin class
